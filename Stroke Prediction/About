@@ -1,0 +1,1 @@
+This project is all about whether a person will get a stroke or not based on features regarding their health and daily routine. This project is done through the use of Support Vector Machine(SVM) Algorithm. Also EDA is done on the dataset before preprocessing it to fill the nana and misssing vvalues.
