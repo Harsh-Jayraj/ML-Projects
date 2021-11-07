@@ -1,0 +1,2 @@
+Created a machine learning model using python on Liver Cirrohis Dataset which predicts the stage of cirrohis on the basis of patients information.
+The model uses Logistic regression algorithm for its execution and the percentage prediction is about 55% which is quite low due to small size of dataset.
